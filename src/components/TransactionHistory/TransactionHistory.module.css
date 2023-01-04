@@ -27,6 +27,6 @@ tbody {
   font-size: 18px;
 }
 
-tbody:nth-child(2n) {
+tbody tr:nth-child(2n) {
   background-color: rgb(245, 244, 246);
 }
